@@ -1,1 +1,1 @@
-# project2
+This project is about the personal portfolio
